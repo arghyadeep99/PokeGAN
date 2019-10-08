@@ -15,7 +15,7 @@ A simple implementation of DCGAN on the Pokémon Dataset. Get new Pokémon ideas
 
 </div>
 
-### Input Image
+### Input Dataset Sample
 
 <div align="center">
 
@@ -31,7 +31,7 @@ A simple implementation of DCGAN on the Pokémon Dataset. Get new Pokémon ideas
 
 </div>
 
-### Output Image
+### Output Images Sample
 
 <div align="center">
 
