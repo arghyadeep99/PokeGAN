@@ -1,18 +1,14 @@
-<div align="center"
+<h1 align="center"> PokeGAN </h1>
 
-# PokeGAN
-<br>
-
-<div>
 
 A simple implementation of DCGAN on the Pokémon Dataset. Get new Pokémon ideas, for the next region!
 
 
 <div align="center">
 
-<br>
+<br>#EE4C2C
 
-[![](https://img.shields.io/badge/Made_with-PyTorch-red?style=for-the-badge&logo=PyTorch)](https://www.pytorch.org "PyTorch")
+[![](https://img.shields.io/badge/Made_with-PyTorch-red?style=for-the-badge&logo=tinder)](https://www.pytorch.org "PyTorch")
 [![](https://img.shields.io/badge/Dataset-Kaggle-red?style=for-the-badge&logo=kaggle)](https://www.kaggle.com  "Kaggle")
 
 <br>
